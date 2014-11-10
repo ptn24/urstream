@@ -1,0 +1,27 @@
+12:23 PM 9/21/2014
+
+Notes:
+Show graphs and audio.
+Identify features such as frequency, power, and variance
+Develop a model that correlates features with urinary flow rate and volume
+
+==============================================================================
+
+Graphs slide:
+Using the microphone, we aim to acquire audio tracks of a user's urinary activities in order to quantify the urinary output and flow rate.
+
+A major challenge in this process is to be able to extract the relevant signals from the audio because the signal and the noise often occupy similar frequency ranges.
+
+However, we were able to design a custom filter and apply it to our audio tracks to not only reduce noise but also enhance the relevant signals by focusing on and weighing different sections of the frequency spectra (as shown here).
+
+As you can see, after we apply the filter on a low flow rate signal and a high flow rate signal, we can identify significant differences in the resulting spectra.
+
+Now we will demonstrate our filtering process with an audio example.
+
+==============================================================================
+
+Using the microphone...
+A major challenge...
+However, we were able...
+As you can see,...
+Now we will...
