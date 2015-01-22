@@ -1,0 +1,65 @@
+2:22 PM 12/6/2014
+
+Status of current team.
+Abhilash hopes to extend his stay in bay area, but will likely move back to
+Philadelphia.
+Ragini is moving to Texas.
+Phillip has little bandwidth in early 2015; likely 3h per week.
+Peter can put in 5h per week.
+Linda has bandwidth for clinical aspects of project.
+
+Aim to onboard engineering expert to take on role of product manager or PI.
+PhD student in Linda's department may be interested.
+Richard Fan.
+Researcher in urology department.
+Currently applying for faculty position.
+Bioengineering background.
+Has experience with MRI and prostate biopsy.
+
+Linda meet with Richard by Jan.
+Will discuss our aims and preliminary findings to Richard.
+
+Modes of communication.
+BlueJeans audio and video conferencing.
+BlueJeans sponsored by Stanford.
+Should set up regular meetings.
+
+Aims and scope.
+Focus on product that is cheap and disposable.
+Question: Do we want one-time-use items that can be thrown away?
+Question: Are we looking to target do-it-yourself users in the home or
+professional users in the clinic?
+
+Using audio as metric is minimally invasive on privacy.
+
+Question: Can we make use of 3D printing to build our product? Is it cheap and
+efficient?
+
+Product must be easy to clean or dispose.
+
+Aim to draft design document to specify scope of project, its limitations, the
+qualities we look for in a product manager, etc.
+
+Intellectual property.
+Anything patentable is property of Stanford if we work with Linda, Richard, and
+Jeff.
+
+Re patents.
+We can patent idea.
+Cannot patent machines because they already exist.
+May be able to patent machines if come up with something really novel.
+if we decide our product is not something around which we want to build a
+company, we can try to get someone to buy our patent or product.
+
+May run into issues with attempt to publish.
+Can publish results and analyses obtained from using machine (or product), but
+cannot publish technical details of machine.
+
+Re Genentech.
+Herbert Boyer (UCSF) and Stanley Cohen (Stanford)
+Method to change genome of bacteria.
+
+Action items:
+Onboard full-time or committed part-time member to take on role of product
+manager or PI.
+Look to Jeff or Richard first, and then Stanford bioengineering department.
