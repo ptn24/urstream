@@ -1,0 +1,127 @@
+
+Briefly identify our background.
+
+Iyer: Masters in EE. Was at Bosch building sensors and embedded systems.
+Looking to focus on machine learning aspect in urstream.
+
+Richard: Engineer in Urology. EE and biomedical eng. Interested in med device
+applications.
+
+Geoff: Urologist at Stanford. Want patients to benefit. Clinical insight.
+
+Murugesan: Masters in bioengineering. Focus on hardware.
+
+Yang:
+
+Shortliffe:
+
+Ideas:
+Sound.
+Vibration.
+
+Iyer: Can use (?) and accelerometers to detect vibrations. Sensors not
+sensitive enough.
+
+Nguyen: No further progress.
+
+Need more leadership. Someone who knows more about mechanical aspects of
+sensors.
+Geoff and Shortliffe have clinical insight, but no expertise on mechanical.
+Talked to Richard; willing to take project on.
+
+Richard: Want to touch base wrt clinical aspects. Can help navigate things when
+he finds out where everybody is located. Has insight into mechanical aspect.
+
+Fergus wants to focus on translational aspect. Once we have an idea, he will
+come onboard to move towards funding.
+
+Stanford has program called "Biodesign".
+Med tech.
+Whole framework they use to talk about clinical needs, milestones we need.
+Can try to fit this project into that framework.
+Will send out doc.
+May turn into university project as opposed to side project.
+Everyone will be named.
+In end, Stanford will want a share.
+
+MIT also goes through similar process.
+
+No need to rush this into university system, but it may be helpful.
+Should consider in the future.
+
+Going forward, look to Richard.
+Set up schedule for meetings.
+Should have meetings that include clinicians.
+Two tracks: engineering and clinical.
+Can meet less frequently with clinicians; let engineers do their thing.
+
+Specific clinical needs:
+Want simple and cheap way to assess flow rate.
+One-time or multiple-use.
+Can integrate into diary where we would know, given approximation of volumes,
+can plug into frequency.
+Completely automated.
+What are force and volume?
+
+Sophisticated devices exist.
+Want simple, unobtrusive, and uninvasive.
+
+Parameters: maximum flow rate, duration of urination
+
+Question: Are we still interested in volume?
+Answer: May be a flow problem.
+
+Should concentrate on either males or females first.
+Once we get things working, can translate to other.
+Males is better to focus on.
+
+Question: How do these metrics facilitate diagnosis?
+Answer: Can distinguish between different problems.
+
+Something cheap that can be picked up from drug store.
+
+Throwaway or cheap thing physician has in office.
+In office may be nice because can help decide urinalysis vs. uroflow.
+
+Question: What distinguishes hyperplasia from stricture?
+Answer: Max flow rate is good distinguishing factor.
+
+Uroflowmeter is the go-to for clinicians.
+Simple and noninvasive.
+This is the bucket.
+
+Question: How does machine learning help?
+Answer: Can help us distinguish different parameters and how much those imply
+diagnosis. However, right now, we are not doing dianoses with these devices.
+
+Need to scope this problem.
+There are so many things we can measure.
+We want to scope the specific thing we want to measure from urinary function.
+How much can we differentiate the inputs.
+Does what we are aiming for make sense?
+
+What are specific urinary pathologies we want to identify?
+What do we want to be able to recognize?
+Answer: We do not necessarily want to distinguish one pathology from another.
+We simply want to identify when there is a problem. If slow flow, want to
+evaluate more.
+
+Do we have numbers from literature.
+Yes.
+
+Geoff and Richard busy until next month.
+
+In week and half, look over the biodesign doc.
+10 days or so.
+
+Linda will draw up some literature.
+
+Need to look into what is out there and available now?
+Would be surprising that there is not something out there.
+Not just academic research, but Google scrub.
+
+Iyer: There is Swedish company trying to incorporate this into their smart
+toilet.
+
+Next availability:
+02/09
